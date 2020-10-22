@@ -1,5 +1,3 @@
-# GA-OMSA-Online-Master-Of-Analytics
+# FA2020: ISYE6740 Computational Data Analysis/Machine Learning
  
-[Program LInk](https://pe.gatech.edu/degrees/analytics)
-
-![Program Page](https://github.com/Alexxxalot/GA-OMSA-Online-Master-Of-Analytics/blob/main/Readme/ProgramPage.png?raw=true)
+Syllabus
